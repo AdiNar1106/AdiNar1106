@@ -1,4 +1,26 @@
-### Hi there 👋
+### Hi there 👋 -- Welcome to my Github page! 
+
+## About Me
+
+I'm Aditya Narayanan, a student at UMass Amherst and an aspiring Data Scientist/Engineer interested in Data Science, Data Engineering and Machine Learning. 
+I have internship experiences in Data Science and Engineering and working in cross-functional data teams, and a plethora of projects to showcase.
+
+## Experience
+
+- Data Engineer Intern @ [Unearth Technologies, Inc](https://www.unearthlabs.com) --> GIS Industry
+&nbsp;
+- Data Scientist @ [NSF - DSC WAV Program](https://dsc-wav.github.io/www/projects.html) --> Selected for the NSF Data Science Corps to tackle data science problems for community based and nonprofit organizations.
+&nbsp;
+- Data Engineer Intern @ [Sun Mobility](www.sunmobility.co.in) --> Electric Vehicle Industry
+
+#### You can connect with me on:
+
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/aditya-nar/)
+&nbsp;
+- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AdiNar1106)
+
+
+- 💬 Reach out to me about anything Data Science/Data Engineering related or if you just want to have a chat!
 
 <!--
 **AdiNar1106/AdiNar1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
