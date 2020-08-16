@@ -19,6 +19,8 @@ I have internship experiences in Data Science and Engineering and working in cro
   <img align="left" alt="Aditya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br />
+<br />
 
 - 💬 Reach out to me about anything Data Science/Data Engineering related or if you just want to have a chat!
 
