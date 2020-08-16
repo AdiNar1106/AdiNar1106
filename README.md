@@ -15,9 +15,9 @@ I have internship experiences in Data Science and Engineering and working in cro
 
 #### You can connect with me on:
 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/aditya-nar/)
-&nbsp;
-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AdiNar1106)
+<a href="https://www.linkedin.com/in/aditya-nar/">
+  <img align="left" alt="Aditya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 - 💬 Reach out to me about anything Data Science/Data Engineering related or if you just want to have a chat!
