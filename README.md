@@ -11,7 +11,7 @@ I have internship experiences in Data Science and Engineering and working in cro
 &nbsp;
 - Data Scientist @ [NSF - DSC WAV Program](https://dsc-wav.github.io/www/projects.html) --> Selected for the NSF Data Science Corps to tackle data science problems for community based and nonprofit organizations.
 &nbsp;
-- Data Engineer Intern @ [Sun Mobility](www.sunmobility.co.in) --> Electric Vehicle Industry
+- Data Science Intern @ [Sun Mobility](www.sunmobility.co.in) --> Electric Vehicle Industry
 
 #### You can connect with me on:
 
