@@ -7,9 +7,10 @@ I have internship experiences in Data Science and Engineering and working in cro
 
 ## Experience
 
+- Incoming Data Science Intern @ [Nike, Inc](https://www.nike.com)
+&nbsp;
 - Data Engineer Intern @ [Unearth Technologies, Inc](https://www.unearthlabs.com) --> GIS Industry
 &nbsp;
-- Data Scientist @ [NSF - DSC WAV Program](https://dsc-wav.github.io/www/projects.html) --> Selected for the NSF Data Science Corps to tackle data science problems for community based and nonprofit organizations.
 &nbsp;
 - Data Science Intern @ [Sun Mobility](www.sunmobility.co.in) --> Electric Vehicle Industry
 
