@@ -7,7 +7,9 @@ I have internship experiences in Data Science and Engineering and working in cro
 
 ## Experience
 
-- Incoming Data Science Intern @ [Nike, Inc](https://www.nike.com)
+- Incoming BIE @ [Amazon](https://www.amazon.jobs)
+&nbsp;
+- Data Science Intern @ [Nike, Inc](https://www.nike.com)
 &nbsp;
 - Data Engineer Intern @ [Unearth Technologies, Inc](https://www.unearthlabs.com) --> GIS Industry
 &nbsp;
